@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    background-color: #9B9DA3;
+    padding: 0;
+    margin: 0;
+}
+header{
+background-color:#67686B ;
+padding: 0;
+margin: 0;
+
+}
+h1{
+    text-align: center;
+}
+.link-header{
+padding: 50px;
+font-size: 20px;
+color: black;
+}
+.link-header:hover{
+    color: white;
+}
+h2{
+    color: #192B55;
+    padding-left: 50px;
+}
+ul{
+ margin-left: 25px;
+}
